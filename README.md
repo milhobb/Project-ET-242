@@ -7,7 +7,7 @@
 1. Денисова Полина (Git: https://github.com/bullymichael) -  
 2. Ермакова Софья (Git: https://github.com/milhobb) -  
 3. Неделько Иван (Git: https://github.com/ivkinpro-rgb) - 
-4. Палеева Виктория (Git: https://github.com/star-tea21) -
+4. Палеева Виктория (Git: https://github.com/star-tea21) - протоколирование.
 5. Смирнова Диана (Git: https://github.com/dianasmirnova83235-cloud) -  
 
 ## ТЕКУЩЕЕ ПРЕДСТАВЛЕНИЕ ПРОЕКТА
