@@ -9,3 +9,5 @@
 3. Неделько Иван (Git: https://github.com/ivkinpro-rgb) - 
 4. Палеева Виктория (Git: https://github.com/star-tea21) -
 5. Смирнова Диана (Git: https://github.com/star-tea21) -  
+
+![схема]()
