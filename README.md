@@ -10,4 +10,4 @@
 4. Палеева Виктория (Git: https://github.com/star-tea21) -
 5. Смирнова Диана (Git: https://github.com/star-tea21) -  
 
-![схема](shem.png)
+![схема](TS/shem.png)
